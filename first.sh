@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Helq"
-echo "Hi"
+echo "Help"
+echo "Hi Youtube"
